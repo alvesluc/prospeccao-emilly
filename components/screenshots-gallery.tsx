@@ -9,57 +9,57 @@ import { X } from "lucide-react"
 const screenshots = [
   {
     id: 1,
-    src: "/IMG_5069.png",
+    src: "/images/IMG_5069.png",
     alt: "Screenshot de chamada 1",
   },
   {
     id: 2,
-    src: "/IMG_5070.png",
+    src: "/images/IMG_5070.png",
     alt: "Screenshot de chamada 2",
   },
   {
     id: 3,
-    src: "/IMG_5071.png",
+    src: "/images/IMG_5071.png",
     alt: "Screenshot de chamada 3",
   },
   {
     id: 4,
-    src: "/IMG_5072.png",
+    src: "/images/IMG_5072.png",
     alt: "Screenshot de chamada 4",
   },
   {
     id: 5,
-    src: "/IMG_5075.png",
+    src: "/images/IMG_5075.png",
     alt: "Screenshot de chamada 5",
   },
   {
     id: 6,
-    src: "/IMG_5076.png",
+    src: "/images/IMG_5076.png",
     alt: "Screenshot de chamada 6",
   },
   {
     id: 7,
-    src: "/IMG_5081.png",
+    src: "/images/IMG_5081.png",
     alt: "Screenshot de chamada 6",
   },
   {
     id: 8,
-    src: "/IMG_5082.png",
+    src: "/images/IMG_5082.png",
     alt: "Screenshot de chamada 6",
   },
   {
     id: 9,
-    src: "/IMG_5083.png",
+    src: "/images/IMG_5083.png",
     alt: "Screenshot de chamada 6",
   },
   {
     id: 10,
-    src: "/IMG_5084.png",
+    src: "/images/IMG_5084.png",
     alt: "Screenshot de chamada 6",
   },
   {
     id: 11,
-    src: "/IMG_5085.png",
+    src: "/images/IMG_5085.png",
     alt: "Screenshot de chamada 6",
   },
 ]
